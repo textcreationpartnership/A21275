@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lieutenant of the Tower his speech and repentance, at the time of his death, who was executed vpon Tower-hill, on the 20 day of Nouember 1615 Together with a meditation and vow of his that hee made not long before he dyed.</title>
+            <author>Helwys, Gervase, Sir, 1561-1615.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1615</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21275</idno>
+            <idno type="STC">STC 7626</idno>
+            <idno type="STC">ESTC S114113</idno>
+            <idno type="EEBO-CITATION">99849341</idno>
+            <idno type="PROQUEST">99849341</idno>
+            <idno type="VID">14481</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21275)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 14481)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 784:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lieutenant of the Tower his speech and repentance, at the time of his death, who was executed vpon Tower-hill, on the 20 day of Nouember 1615 Together with a meditation and vow of his that hee made not long before he dyed.</title>
+                  <author>Helwys, Gervase, Sir, 1561-1615.</author>
+               </titleStmt>
+               <extent>[38] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. E[ld] for Nat. Butter, and are to be sould at his shop neere Saint Austines gate,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1615]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The lieutenant of the Tower = Sir Gervase Helwys.</note>
+                  <note>Printer's name and publication date from STC.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>A variant exists with title page reading 'London', and omitting 'Together with a meditation ..'.</note>
+                  <note>Helwys was executed for complicity in the murder of Sir Thomas Overbury.--Folger Shakespeare Library Catalog.</note>
+                  <note>Signatures: A-E⁴ (-A1, blank?).</note>
+                  <note>Variant: 'London' omitted and 'Together with a meditation ..' aded on title page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Helwys, Gervase, --  Sir, 1561-1615.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:14481:1"/>
+            <pb facs="tcp:14481:1"/>
+            <p>THE Lieutenant of the <hi>Tower his Speech and Repentance,</hi> at the time of his Death, who, was executed vpon Tower Hill, <hi>on the</hi> 20. <hi>day of Nouember.</hi> 1615.</p>
+            <p>Together with a Meditation and Vow of his that he made not long before dyed.</p>
+            <q xml:lang="lat">Mors mihi Lucrum.</q>
+            <p>Printed by <hi>G. Ela</hi> for <hi>Na: Butter,</hi> and are to be ſold at his ſhop near Saint <hi>Auſtines</hi> gate.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:14481:2"/>
+            <pb facs="tcp:14481:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O ſatisfie the World, which in a cauſe of this Nature, is com<g ref="char:EOLhyphen"/>monly diſtracted into various opinions, ad<g ref="char:EOLhyphen"/>ding or detracting from the truth, accor<g ref="char:EOLhyphen"/>ding to the humorous diſpoſition with which it meets; And to doe Right to the dead Gentleman, who (albeit his offence was foule to GOD and Man, and hatefull to himſelfe) deſerued both loue and pitty, for the Christian end hee made) haue I (Reader for thy ſake) collected the ſub<g ref="char:EOLhyphen"/>ſtance</p>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="scaffold_speech">
+            <pb facs="tcp:14481:3"/>
+            <p>
+               <q>many others of ſeuerall diſpoſitions. All you beeing thus aſſembled to ſee mee finiſh my dayes, the number of which is ſum'd vp, for the very mi<g ref="char:EOLhyphen"/>nutes of my life may now be reckon<g ref="char:EOLhyphen"/>ed. Your expectation is to haue mee ſay ſomething, to giue ſatisfaction to the World, and I will doe it ſo farre as <hi>I</hi> can, albeit in that ſpeech of mine, I ſhall (as it was ſpoken vnto me the laſt night) but chatter like a Crow. But whatſoeuer <hi>I</hi> deliuer, <hi>I</hi> beſeech you to take from a wounded boſome, for my purpoſe is to rip vp my very heart, and to leaue nothing there which may proue any clogge to my Conſcience.</q>
+            </p>
+            <pb facs="tcp:14481:3"/>
+            <p>
+               <q>Hither am I come to performe a worke which of all others is to Man the moſt eaſie and yet to Fleſh and Blood is the hardeſt, and that is, To die. To hide therefore any thing, for any worldly reſpect, were to leaue a blot vpon my owne Soule, which I truſt ſhall be preſented (through the mercies of my Maker, and merits of my Sauiour) acceptable before GODS high Tribunall.</q>
+            </p>
+            <p>
+               <q>And firſt I will labour to ſatisfie ſome, who before my apprehenſion were well conceipted of mee, but ſince my Arraignment, as I vnderſtand, ca<g ref="char:EOLhyphen"/>ryed of mee but hard opinions, for that at the Barre I ſtood ſtiffly vpon
+<pb facs="tcp:14481:4"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:14481:4"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:14481:5"/>the Iuſtice of my Innocence; and this they impute as a great fault, beeing af<g ref="char:EOLhyphen"/>terwards that I was found guilty of the Crime. To which I anſwer, that I did it ignorantly: Nay I was ſo farre from thinking my ſelfe foule in the Fact, that vntill theſe two Gentle<g ref="char:EOLhyphen"/>men, (Doctor <hi>Felton</hi> and Doctor <hi>Whiting,</hi> the Phyſitions for my Soule) told mee how deepely I had imbrewed my hands in the blood of that gentle<g ref="char:EOLhyphen"/>man, making mee by GODS law as guilty in the Concealing, as if I had beene a perſonall Actor in it: till then I ſay, I held my ſelfe ſo ignorant of the deede, and my Conſcience ſo cleere, that I did neuer aske GOD forgiueneſſe, nor once repent mee of
+<pb facs="tcp:14481:5"/>the Fact, ſuch was my blindneſſe. So that it was not onely an error, or ra<g ref="char:EOLhyphen"/>ther a horrible ſinne, in mee to conſent, but a worſe, to deny it, ſo Bloody, ſo Treacherous, ſo Foule, ſo Filthy a Fact as that was; for which I muſt confeſſe the King, and the State haue dealt honorably, roundly, and iuſtly, with mee, in condemning mee vnto this death. And thus haue I laboured and done my beſt to cleere this point, being willing by all good meanes to reduce your firſt opinions of mee; that as formerly your conceipted well of mee, ſo you would now with a cha<g ref="char:EOLhyphen"/>ritable affection performe the laſt duty of your Chriſtian loues towards mee, praying to GOD, both with
+<pb facs="tcp:14481:6"/>me, and for mee; to the intent that this Cup, whereof <hi>I</hi> am to drinke, may not be greiuous vnto mee, but that it may be a ioyfull conueiance to a better and more bleſſed comfort.</q>
+            </p>
+            <p>
+               <q>Some perhaps will thinke it to be a Rigor of the State, or aggrauation of my iudgement, that I ſhould die in this place, but this doe I take as an honor vnto me, &amp; herein doe I acknowledge my ſelfe to ſtand much bound to the State, in that I haue this fauour vouch<g ref="char:EOLhyphen"/>ſafed me to ſuffer Death in ſight of my <hi>Charge,</hi> euen where I had ſinned, on the Tower-hill, rather than in the place of common Execution, where euery baſe Malefactor dyeth.</q>
+            </p>
+            <pb facs="tcp:14481:6"/>
+            <p>
+               <q>Many doe I ſee here whom I know well, and of whom I am likewiſe knowne: and now am I a Spectacle for them to be looked on, whom in former times (and in all mens ac<g ref="char:EOLhyphen"/>counts) they held neuer likely to come to ſuch an end. But herein he hold the iuſtice of God, who is ſo oppoſ'd a<g ref="char:EOLhyphen"/>gainſt ſinne, becauſe that if we forget to ſeeke him whilſt we may, he will finde vs out when we would not be found of him.</q>
+            </p>
+            <p>
+               <q>It is expected I ſhould ſay ſomething of the fact which I haue committed: And hither am I come reſolued to cleare my conſcience (before I depart this world) of all matters which I ei<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:14481:7"/>knowe, or can now remember. And ſo much I haue already deliue<g ref="char:EOLhyphen"/>red in writing to my Lo. <hi>Chiefe Iust<g ref="char:EOLhyphen"/>ice::</hi> and to proue that which I wrote is true, I yeſterday confirmed it with the receiuing of the bleſſed Sacrament, wiſhing vnto you all as much com<g ref="char:EOLhyphen"/>fort by thoſe holy Myſteries, as I tooke by them: and I doe heere (though not with ſuch a bloud) yet with mine own bloud, ſeale that which I haue writ<g ref="char:EOLhyphen"/>ten. For my ſelfe, I will hide nothing to make my fault ſeeme leſſe, but will rip open this very heart of mine, and confeſſe before God myne owne vn<g ref="char:EOLhyphen"/>cleanneſſe.</q>
+            </p>
+            <p>
+               <q>
+                  <hi>I</hi> haue ſinned exceedingly a<g ref="char:EOLhyphen"/>gainſt
+<pb facs="tcp:14481:7"/>thee O my maker, and in this am I moſt faulty, that I did not reueale to the King, ſo ſoone as I my ſelfe had knowledge of the buſines. But (alas) feare to looſe theſe worldly pleaſures, and the loue to promotion, made me forget my duty to my Soueraigne, and not to regard my God, who is a ſwift auenger of blood: and would to hea<g ref="char:EOLhyphen"/>uen I had truſted to his prouidence, and ſet the thinges of this world at nought, for heauens ſake, and a good conſcience. You ſee, Gentlemen, pro<g ref="char:EOLhyphen"/>motion cannot reſcue vs from the iuſt<g ref="char:EOLhyphen"/>ice of God, which alwaies purſues af<g ref="char:EOLhyphen"/>ter ſinne: And therefore I exhort you not to truſt in men (how great ſoeuer) for they cannot hide themſelues when
+<pb facs="tcp:14481:8"/>God is angry; neither can they pro<g ref="char:EOLhyphen"/>tect you from ſhame, when God will conſume you: he that ſitteth in hea<g ref="char:EOLhyphen"/>uen, will deride and ſcorne their fooliſh Inuentions. As for me, I will not ſpare to lay open my owne ſhame: Thinke you I care for the reputation of this world? No, I weigh it not. This my ſoule ſhall receiue more comfort from God in my vpright dealing.</q>
+            </p>
+            <p>
+               <q>My ſinne, in this foule fact, was great, for vpon me lay all the blood, ſhed, and to be ſhed: I haue made ma<g ref="char:EOLhyphen"/>ny children fatherles, many wiues huſ<g ref="char:EOLhyphen"/>bandles, many parents childeleſſe: and I my ſelfe leaue a comfortleſſe wife and eight children behinde me for it too:
+<pb facs="tcp:14481:8"/>for if <hi>I</hi> had reuealed it when <hi>I</hi> might, I had freed much blood from being ſpilt, in ſo much as <hi>I</hi> could wiſh (Gods Iustice and charity reſerued) I might hang in chaines, till <hi>I</hi> rotte away by peecemeale: nor cared <hi>I</hi> what tortures my body were put vnto, ſo <hi>I</hi> might ex<g ref="char:EOLhyphen"/>paite or free the bloud of ſo many, (ſome in one place, and ſome in ano<g ref="char:EOLhyphen"/>ther) which is both like to bee ſhed, and is already ſhed, and the Lord knowes when it will haue an end.</q>
+            </p>
+            <p>
+               <q>Concerning my ſelfe, <hi>I</hi> will aggra<g ref="char:EOLhyphen"/>uate the crime, by ſpeaking of euery circumſtance I can remember. And now it comes into my mind, what truſt that gentleman put into me: hee
+<pb facs="tcp:14481:9"/>reputed me to bee moſt faithfull vnto him; (Oh the vildneſſe of my heart!) I proued vnfaithfull, and was his deadly deceitfull friend.</q>
+            </p>
+            <p>
+               <q>And here (Gentlemen) I exhort you all that you would take notice of this, euer to bee faithfull to thoſe who put you in truſt.</q>
+            </p>
+            <p>
+               <q>Sir <hi>Thomas</hi> O. truſted me, and I was vnfaithfull and treacherous to him, in drawing tickets for him to his diſad<g ref="char:EOLhyphen"/>uantage. I promiſed him ſecrecy, yet betrayed him, onely to ſatisfy great<g ref="char:EOLhyphen"/>neſſe: But God, who ſees the ſecret thoughts of mans heart, will diſcloſe all vnuiſt actions at laſt: nay, I am per<g ref="char:EOLhyphen"/>ſwaded that whoſoeuer they bee that
+<pb facs="tcp:14481:9"/>commit ſinne in their child-hood, at one time or other it will be reuealed.</q>
+            </p>
+            <p>
+               <q>In this place it commeth to my mind, that in my yonger dayes (as wel beyond the Seas as here) I was much addicted to that idle veyne of Gaming, I was bewitched with it indeed: And I played not for little for final ſu<g ref="char:cmbAbbrStroke">̄</g>ms neither, but for Great-ones, yet euer haunted with ill lucke: And vpon a time, being much diſpleaſed at my loſſe, <hi>I</hi> ſayd, not in a careleſſe maner, Would I might be hanged; But ſeri<g ref="char:EOLhyphen"/>ouſly, and aduiſedly (betweene God and my ſelfe) clapping my hands vp<g ref="char:EOLhyphen"/>on my breaſt, I ſpake thus, If euer I play again, then let me be hangd. Now gentlemen here you may behold the
+<pb facs="tcp:14481:10"/>uſtice of God, paying mee my wiſh and imprecation home. Bee carefull therefore <hi>I</hi> exhort you, that you vow nothing but that vnto which you will giue all diligence to performe: for the powerful God, before whom you make ſuch vowes, will otherwiſe bee auegned:</q>
+            </p>
+            <p>Jn this place Doctor <hi>VVhiting</hi> putting him in mind to ſatiſfie the <hi>World touching his Religion thus he went on.</hi>
+            </p>
+            <p>
+               <q>THe matter you ſpeake to mee of, faith hee, is well thought vpon: for I heare that abroad hath beene
+<pb facs="tcp:14481:10"/>ſome murmuring and queſtions made about mee for my Religion; Some giuing out that I was infected with A<g ref="char:EOLhyphen"/>nabaptiſme: A fond, ridiculous, foo<g ref="char:EOLhyphen"/>liſh and phantaſticall opinion, which I neuer affected but rather deſpiſed.</q>
+            </p>
+            <p>
+               <q>Many may thinke that the manner of my death doth much diſcourage mee, that I ſhould dye in a halter: I would haue you all to thinke that I ſcorne all ſuch worldly thoughts: <hi>I</hi> care not for it, <hi>I</hi> value not any earth<g ref="char:EOLhyphen"/>ly ſhame at all, ſo as may haue ho<g ref="char:EOLhyphen"/>nour
+<pb facs="tcp:14481:11"/>and glory anon in Heauen: and I make no doubt, but I ſhall ſodaine<g ref="char:EOLhyphen"/>ly be more happie then you all, and that I ſhall ſee GOD face to face: and if there be any point of innocency in mee at all, I doe vtterly caſt it from mee, and I doe commit it wholly to GOD.</q>
+            </p>
+            <p>
+               <q>And for any matter of Glory, I doe with the Saints of GOD expect it through the merits of Chriſt, at the Reſurrection: yea it is my glorie to die thus. I might haue died in my Bedde, or ſhooting the Bridge or elſe haue fallen downe ſodainly, in
+<pb facs="tcp:14481:11"/>which death I ſhould haue wanted this ſpace to repent, being the ſweet com<g ref="char:EOLhyphen"/>fort and aſſured hope of Gods fauour which of his mercy he hath vouchſa<g ref="char:EOLhyphen"/>fed mee; So that it ſwalloweth vp all feare of death or reproch of the World: wiſhing vnto all you (Gentlemen) who now behold mee, that whereſoeuer you ſhall dye, (either in your Beddes or elſe-where howſoewer) you may feele ſuch comfort and reſolution as God in his mercy hath beſtowed vppon mee and my wounded Soule for this and the reſt of my grieuous Sinnes.</q>
+            </p>
+            <p>
+               <q>But mee thinkes I heare ſome of you coniecture and ſay, that I
+<pb facs="tcp:14481:12"/>expreſſe no great Arguments or ſignes of ſorrow: You think my heart ſhould rather diſſolue and melt into teares, then to appeare ſo inſenſible of feare as I may ſeeme: but I muſt tell you, teares were neuer common in mee: I may therefore feare though I do not weepe. I haue been couragious both beyond the Seas and heere in mine owne Country: but (Gentlemen) that was when there was no perill be<g ref="char:EOLhyphen"/>fore mee. But now the ſtroke of death is vppon mee. It affrights mee, and there is cauſe to feare: yet notwith<g ref="char:EOLhyphen"/>ſtanding, my heart ſeemeth vnto you to be rather of ſtone than of fleſh. But I would haue you vnderſtand, that this boldnes doth not proceed from
+<pb facs="tcp:14481:12"/>any manly fortitude, for I am a man, fraile as you are, and dare as little look death in the face as any other: ther terors of death doe as much trouble my hu<g ref="char:EOLhyphen"/>mane ſenſe, as of any man whatſoeuer: but that which ſwalloweth vp all man<g ref="char:EOLhyphen"/>ner of feare in me, &amp; maketh me to glo<g ref="char:EOLhyphen"/>ry and to reioyce in, is, the full aſſu<g ref="char:EOLhyphen"/>rance which I conceiue of the vn<g ref="char:EOLhyphen"/>ſpeakable loue of God to thoſe who are his, of which number I perſwade my ſelfe to bee one, and that I ſhall preſent<g ref="char:EOLhyphen"/>ly enioy it.</q>
+            </p>
+            <p>
+               <q>I confeſſe I haue ſinned exceedingly, againſt thee (oh God) many wayes, in prophaning thy holy Sabaoths, in ta<g ref="char:EOLhyphen"/>king thy glorious name in vaine, in
+<pb facs="tcp:14481:13"/>my concupiſcence in turning all thy graces into wantonnes, in my Riotous waſting ſo many of thy good Crea<g ref="char:EOLhyphen"/>tures, as would haue relieued many poore people, whoſe prayers <hi>I</hi> might haue had this day.</q>
+            </p>
+            <p>
+               <q>I haue ſinned againſt thee in my Child-hood: but Childrens ſinnes are childiſhly performed: but <hi>I</hi> confirmed them in my manhood, there was my ſinne. <hi>I</hi> am perſwaded, there is no ſinne, that a man committeth in his life, knowing it to be a ſin, and not re<g ref="char:EOLhyphen"/>penting of it, but the Lord will iudge it.</q>
+            </p>
+            <p>
+               <q>I admoniſh you therefore that are
+<pb facs="tcp:14481:13"/>heere aſſembled, to take good notice of your ſinnes, and let none eſcape you vnrepented. And yet when you haue done the beſt you can, there will lie buried ſome one ſinne or other ſufficent to condemne you.</q>
+            </p>
+            <p>
+               <q>O Lord clenſe mee from my ſecret ſinnes, which are in me ſo rife. <hi>I</hi> abu<g ref="char:EOLhyphen"/>ſed the tender education of my Pa<g ref="char:EOLhyphen"/>rents. You perhaps that knew mee will ſay no; <hi>I</hi> liued in an honeſt forme, and was not bad in my life.</q>
+            </p>
+            <p>
+               <q>But I know beſt my ſelfe what I was: &amp; if I who was ſo eſteemed of amongſt Men, ſhall ſcarcely be ſaued, what will
+<pb facs="tcp:14481:14"/>become of thoſe, whom you point at for notorious lieuers?</q>
+            </p>
+            <p>
+               <q>The laſt night God put into my mind the remembrance of one ſinne of mine, which heere I will lay open, that others may take heed. <hi>I</hi> tooke a vaine pride in my pen, and ſome of my friendes would tell me I had ſome induments and ſpeciall gift that way: (though <hi>I</hi> ſay nor ſo my ſelfe) but mark the iudgement of God in this; that Pen which <hi>I</hi> was ſo proud of, hatch ſtruck mee dead, and like <hi>Abſolons</hi> hayre hath hanged me: for there hath dropt a word or two from my Pen, in a letter of mine, which vpon my Saluation I am not a<g ref="char:EOLhyphen"/>ble to anſwer, or to giue any good ac<g ref="char:EOLhyphen"/>compt
+<pb facs="tcp:14481:14"/>of. At my Arraignment I plea<g ref="char:EOLhyphen"/>ded hard for life, &amp; proteſted my Inno<g ref="char:EOLhyphen"/>cency, but when my owne Pen came againſt mee, I was forthwith not able to ſpeake anything for my ſelfe: for I ſtood as one amazed, or that had no Tongue.</q>
+            </p>
+            <p>
+               <q>See (Gentlemen) the iuſt Iudge<g ref="char:EOLhyphen"/>ment of GOD, who made that thing of which I was moſt proud, to be my bane: take notice how ſtrangely ſinne is puniſhed, and learne euery-one to ſtriue againſt it.</q>
+            </p>
+            <p>
+               <q>I haue heard the word of GOD, and often read it (but without vſe) for I muſt tell you theſe two worthy,
+<pb facs="tcp:14481:15"/>Gentlemen (to whom I am ſo much bounden, God reward them for their loue) euen they begat mee very late<g ref="char:EOLhyphen"/>ly, for I am not aſhamed to confeſſe that I was to be begotten vnto Chriſt within theſe three daies: yea I haue of<g ref="char:EOLhyphen"/>ten prayed againſt ſinne, and made many vowes to forſake it, but vppon the next occaſion, my foule heart hath beene ready to runne with the wicked.</q>
+            </p>
+            <p>
+               <q>Had I learned but this one leſſon in the 119. Pſalme, (Depart from mee ye wicked, I will keepe the Comman<g ref="char:EOLhyphen"/>dements of my God &amp;c.) I had beene likely to haue enioyed many dayes heere on eath: whereas now you
+<pb facs="tcp:14481:15"/>all ſee mee ready to bee cut ſhort by reaſon of my ſinne.</q>
+            </p>
+            <p>
+               <q>But (O LORD) albeit thou ſlayeſt mee, yet will I put my truſt in thee: let the LORD doe to me what hee will, I will dye vpon this hand (of truſting in him) if I faile many a ſoule hath miſſ'd, but I haue ſure hope of mercy in him; hee hath ſufficed and ſuccoured mee, I am ſure, euer ſince the ſentence of death hath paſſed vppon mee: ſuch com<g ref="char:EOLhyphen"/>fort flowing from the Godly in<g ref="char:EOLhyphen"/>deauors of theſe Gentlemen (the Diuines) that neither the Re<g ref="char:EOLhyphen"/>proach of this Death, nor the
+<pb facs="tcp:14481:16"/>Torment of it hath any whit diſcou<g ref="char:EOLhyphen"/>raged me; nay, let me tell you, the laſt night when I heard the time was appoynted, and ſaw the warrant in Maſter Sheriffs hand for my death, it no whit daunted me: But what put this courage into me? onely the hope which I had in GODS mercies.</q>
+            </p>
+            <p>
+               <q>This Hope was a Seede, and this Seed muſt come from a Roote; <hi>I</hi> loo<g ref="char:EOLhyphen"/>ked vpon my ſelfe, and there was ra<g ref="char:EOLhyphen"/>ther cauſe deſpaire; and iuſt cauſe, that I ſhould not approach GODS preſence. Thus then I diſputed with GOD: This Hope being a Seede muſt haue a Roote, and this Roote is not any thing in Man, no, it is <hi>Prae<g ref="char:EOLhyphen"/>ſcientia</hi>
+                  <pb facs="tcp:14481:16"/>(thy fore-knowledge,) O God, who haſt elected me from eter<g ref="char:EOLhyphen"/>nity.</q>
+            </p>
+            <p>
+               <q>I will tell you, I receiued more com<g ref="char:EOLhyphen"/>fort this morning, comming along the ſtreetes, than euer <hi>I</hi> did in all my life. I ſaw much people gathered together, all the way as I came, to ſee mee brought to this ſhamefull end: who with their hearty prayers and well wiſhings gladded and comforted my very ſoule: inſomuch as <hi>I</hi> could wiſh that I had come from Weſtminſter hi<g ref="char:EOLhyphen"/>ther. I proteſt vnto you, <hi>I</hi> thinke I could neuer haue dyed ſo happily in my bed.</q>
+            </p>
+            <p>
+               <q>But you will ſay, theſe are but ſpee<g ref="char:EOLhyphen"/>chees, and that I being ſo neere death,
+<pb facs="tcp:14481:17"/>my heart cannot be ſo free, as I ſeeme in my ſpeech: I confeſſe, there are in my breſt frailties, which doe terrifie, and will ſtill be buſie with me, but I be<g ref="char:EOLhyphen"/>ſeech you when I am at the ſtroake of death, that you would praie to GOD (with mee) that neither <hi>Sathans</hi> power, nor my weakeneſſe, may hinder my confidence. And I beſeech God that amongſt all who this daie heare mee, ſome may profit by my end: If <hi>I</hi> get but one Soule, I ſhall haue much com<g ref="char:EOLhyphen"/>fort in that; for that one ſoule my be<g ref="char:EOLhyphen"/>get another, and that other another.</q>
+            </p>
+            <p>
+               <q>I haue held you too long, but I will draw to an end: intreating you all to ioyne in praier to God for me.</q>
+            </p>
+            <q>
+               <pb facs="tcp:14481:17"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <head>The ſumme of his Prayer.</head>
+                        <p>
+                           <hi>O</hi> Lord God omnipotent, who ſitteſt in Heauen, and ſeeſt all things which are done on earth: to whom are knowne all occaſions of men; And who doſt deride and laugh to ſcorne their Fooliſh inuen<g ref="char:EOLhyphen"/>tions: thou (Lord) who art powerfull to Saue at an inſtant, bow downe the hea<g ref="char:EOLhyphen"/>uens, and behold Mee (wretched ſinner!) vnworthy to looke vp, or lift vp my hands vnto thee. Remember not (O Lord) the ſinnes which I have committed. Driue away this Miſt which is before mee; and breake thoſe thick Clowdes which my ſinnes haue made, and may let my requeſt to come into thy preſence. Strengthen mee in the middeſt of Death, in the aſsurance of thy
+<pb facs="tcp:14481:18"/>Mercies; and giue mee a ioyfull Paſſage into thy Heauenly Reſt, now and for euer. Amen.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>After hee had thus Prayed, hee tooke his leaue of all, with theſe words.</p>
+            <p>
+               <q>GEntlemen, <hi>I</hi> ſhall ſee your faces now no more: and pulling down his Cap in his eies, ſaid ſome priuat prayer; in which time the Doctors prayed, and called to him, that hee would remember his aſſurance, and not be diſmaied at the Cup, that hee was not drinke of: Hee anſwered, <hi>I will drinke it vp, and neuer looke what is in it.</hi>
+               </q> And after a little time more ſpent in
+<pb facs="tcp:14481:18"/>priuat prayer, hee ſaid, <q>
+                  <hi>Lord receaue my Soule:</hi>
+               </q> And ſo yeelded vp the Ghoſt.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <head>His Meditation and Vow. not long before his Death.</head>
+                        <p>VVHen I conſidered <hi>Herods</hi> State, who though hee heard <hi>Iohn Bap<g ref="char:EOLhyphen"/>tiſt</hi> gladly, yet was he intangled with <hi>He<g ref="char:EOLhyphen"/>rodias:</hi> and how <hi>Agrippa</hi> liked ſo well of <hi>Paul</hi> as hee was perſwaded almoſt to be<g ref="char:EOLhyphen"/>come a Chriſtian, and how young mans will was good to follow <hi>Chirſt</hi> yet was there one thing wanting: meethought the ſtate of ſinfull man was not vnlike. For alſo how the Angler though hauing caught a Fiſh but by the the chaps accounts it as his
+<pb facs="tcp:14481:19"/>owne: the Bird taken but by the heele is a prey vnto the Fowler: the Iayler alſo holds his priſoner by one ioint as ſafe, as caſt in iron chaines: then did I think what do theſe motions good, if not effected to the full? what though not notoriouſly euill? one ſinne ſufficent to condemn: and is he guilty of all that guilty is of one? then ſaid I vn<g ref="char:EOLhyphen"/>to the Lord I will freely cleanſe my waies and waſh my hands in innocency: I will take heed that I offend not in my tongue. Lord let my thoughts be ſuch as I may al-waies ſay, try and examine mee if there be any vnrighteouſnes in mee.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <closer>
+               <signed>Sir <hi>Geruaſe Ellowis.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:14481:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
